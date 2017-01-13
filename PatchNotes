@@ -1,0 +1,23 @@
+**This guide will need to be ammended to accomodate MEAN Stack.
+
+Follow these standards for Patch Notes
+
+--------MAJOR: (↑.0.0)--------
+Overhaul/Add Model - Create new version
+Append 3+ Models
+Add Controller
+2+ New Action Results
+6+ Views HTML/CSS Changes
+4+ Changes to Layout.cshtml
+
+--------MINOR: (X.↑.0)--------
+Append 1 - 2 Models
+1 New Action Result
+Install / Implement Plugin
+4-5 Views HTML/CSS Changes
+1-3 Changes to Layout.cshtml
+
+--------PATCH: (X.X.↑)--------
+1-3 Views HTML/CSS Changes
+Modify ActionResult
+Modify Plugin implementation
